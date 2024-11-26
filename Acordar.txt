@@ -1,0 +1,19 @@
+INÍCIO
+	1. Ouvir despertador;
+	2. Desligar despertador usando as mãos;
+	3. Tirar as cobertas do corpo;
+	4. Ir até a porta do quarto;
+	5. Abrir a porta usando uma das mãos;
+	6. Ir até o banheiro;
+	7. Se tiver alguém usando;
+		1. Esperar a pessoa sair;
+	8. Se ningúem estiver usando;
+		1. Abrir a porta usando uma das mãos;
+		2. Fazer necessidades;
+		3. Escovar os dentes;
+		4. Lavar o rosto;
+		5. Arrumar o cabelo;
+	9. Ir até a cozinha;
+	10. Preparar café;
+	11. Comer os alimentos preparados e tomar o café;
+FIM
